@@ -1,0 +1,18 @@
+deck_cards = {
+    "hertta ässä": 11, "hertta kaksi": 2, "hertta kolme": 3, "hertta neljä": 4,
+    "hertta viisi": 5, "hertta kuusi": 6, "hertta seitsemän": 7,
+    "hertta kahdeksan": 8, "hertta yhdeksän": 9, "hertta kymppi": 10,
+    "hertta jätkä": 10, "hertta akka": 10, "hertta kunkku": 10,
+    "pata ässä": 11, "pata kaksi": 2, "pata kolme": 3, "pata neljä": 4,
+    "pata viisi": 5, "pata kuusi": 6, "pata seitsemän": 7,
+    "pata kahdeksan": 8, "pata yhdeksän": 9, "pata kymppi": 10,
+    "pata jätkä": 10, "pata akka": 10, "pata kunkku": 10,
+    "ruutu ässä": 11, "ruutu kaksi": 2, "ruutu kolme": 3, "ruutu neljä": 4,
+    "ruutu viisi": 5, "ruutu kuusi": 6, "ruutu seitsemän": 7,
+    "ruutu kahdeksan": 8, "ruutu yhdeksän": 9, "ruutu kymppi": 10,
+    "ruutu jätkä": 10, "ruutu akka": 10, "ruutu kunkku": 10,
+    "risti ässä": 11, "risti kaksi": 2, "risti kolme": 3, "risti neljä": 4,
+    "risti viisi": 5, "risti kuusi": 6, "risti seitsemän": 7,
+    "risti kahdeksan": 8, "risti yhdeksän": 9, "risti kymppi": 10,
+    "risti jätkä": 10, "risti akka": 10, "risti kunkku": 10,
+}
