@@ -1,3 +1,3 @@
 # python-blackjack
-Terminal blackjack python
+Terminal blackjack python.
 You'll need following libraries: random.
